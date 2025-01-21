@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace TsUserBtoB;
+namespace Matthewtan\TsUserBtoB;
 
 use Cake\Console\CommandCollection;
 use Cake\Core\BasePlugin;
